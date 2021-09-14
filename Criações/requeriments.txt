@@ -1,3 +1,0 @@
-pip install python-barcode
-pip install pillow
-pip install qrcode

@@ -1,0 +1,7 @@
+# Criação
+pip install python-barcode
+pip install pillow
+pip install qrcode
+
+# Leitura
+pip install pyzbar
